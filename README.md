@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Gaurav
 
-<!--
-**me4gaurav/me4gaurav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lead GenAI Engineer with 11+ years in Python, SQL and data engineering. I build RAG assistants, multi-agent workflows and LLM evaluation setups that run in production.
 
-Here are some ideas to get you started:
+Built a RAG assistant over 500+ documents: answers in under 30 seconds instead of 45 minutes, 98% accuracy on a ground-truth test set
+Built a multi-agent code converter (LangChain, LangGraph, Azure OpenAI) that translated 100K+ lines of legacy code
+Deployed a FastAPI RAG service with Docker on AWS EKS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Stack: Python, LangChain, LangGraph, FAISS, FastAPI, Docker, Kubernetes, AWS EKS, Azure OpenAI, PySpark, SQL
+
+Work code belongs to my employers and is private. Public repos here show the same patterns on public data.
+
+Bengaluru, India | LinkedIn
